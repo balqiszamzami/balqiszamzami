@@ -58,10 +58,4 @@ I’m an undergraduate student at Sumatera Institute of Technology in Data Scien
 
 
 
-<h3>Please leave me a cool note. <a href="https://github.com/balqiszamzami/balqiszamzami/issues/new?template=guestbook-entry.md">here</a>!</h3>
-
-  
-                 
-       
-                                 
-![snake gif](https://github.com/balqiszamzami/balqiszamzami/blob/output/github-contribution-grid-snake.svg)
+<h3>You can leave me a note. <a href="https://github.com/balqiszamzami/balqiszamzami/issues/new?template=guestbook-entry.md">here</a>!</h3>
