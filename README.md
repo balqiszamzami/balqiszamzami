@@ -1,12 +1,4 @@
-![woman-reading-book-under-the-tree](https://user-images.githubusercontent.com/52764879/216846533-b0bb57d2-2a30-4ea1-a555-209c523cc205.gif)
-
-
-
-
-
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=36BCF7FF&center=true&width=1000&height=52&lines=Hi+There!!+Happy+To+Meet+You.+I'm+Balqis)](https://git.io/typing-svg)
- 
- 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=36BCF7FF&center=true&width=1000&height=52&lines=Hi+There!!+Happy+To+Meet+You.+I'm+Balqis)
 
          
          
@@ -15,7 +7,9 @@
 <a href="https://www.linkedin.com/in/balqiszamzami/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <a href="https://www.instagram.com/aqis.zamzami/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 <a href="mailto:balqisdfzamzami@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-</p><br>
+<a href="https://open.spotify.com/user/31a7pox5yuiuphyefypn7jcsyfny?si=S-5jvCb-QK62zWKBp8FlrQ" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
+ </p><br>
 
 
   <div align="center">
@@ -24,7 +18,7 @@
 </a>
 
 
-## <img src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="40"> **About Me:**
+## <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="40"> **About Me:**
 
 I’m an undergraduate student at Sumatera Institute of Technology in Data Science. Highly motivated to continuously improve my skills. I love to discover new things and share it with others. I love cat, game, listening to music and watching anime. <br>
 
