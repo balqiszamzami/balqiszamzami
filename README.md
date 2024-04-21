@@ -5,6 +5,7 @@
           
 <p align="center">
 <a href="https://www.linkedin.com/in/balqiszamzami/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://medium.com/@balqisdfzamzami"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/> </a>
 <a href="https://www.instagram.com/aqis.zamzami/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 <a href="mailto:balqisdfzamzami@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 <a href="https://open.spotify.com/user/31gofcqplyawrebbgxamztxl4dve?si=c778b979ac184a1e" target="_blank">
