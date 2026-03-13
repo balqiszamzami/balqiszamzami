@@ -21,7 +21,7 @@
 
 ## <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="40"> **About Me:**
 
-I’m an undergraduate student at Sumatera Institute of Technology in Data Science. Highly motivated to continuously improve my skills. I love to discover new things and share it with others. I love cat, game, listening to music and watching anime. <br>
+I’m a fresh graduate at Sumatera Institute of Technology in Data Science. Highly motivated to continuously improve my skills. I love to discover new things and share it with others. I love cat, game, listening to music and watching anime. <br>
 
 
 <img align="left"  width="15%" height="15%" src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif"></a>
@@ -52,6 +52,3 @@ I’m an undergraduate student at Sumatera Institute of Technology in Data Scien
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 
-
-
-<h3>You can leave me a note. <a href="https://github.com/balqiszamzami/balqiszamzami/issues/new?template=guestbook-entry.md">here</a>!</h3>
